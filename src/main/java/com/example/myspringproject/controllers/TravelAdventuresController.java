@@ -36,7 +36,5 @@ public class TravelAdventuresController {
         return adventureRepository.findByState(state);
     }
 
-
 }
 
-}
